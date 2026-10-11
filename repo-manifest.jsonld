@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-celery-monitor/commit/2b86acddc4cf2e65b63c8c7b2db7ecaa037b4b75",
       "git:hexsha": "2b86acddc4cf2e65b63c8c7b2db7ecaa037b4b75",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:35:00.570007+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-celery-monitor/commit/12a0e2691515cbfcc714906bb4e3ba5b793521dc",
