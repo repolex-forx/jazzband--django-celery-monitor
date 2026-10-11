@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-celery-monitor",
+  "versions": [
+    {
+      "commit": "2b86acddc4cf2e65b63c8c7b2db7ecaa037b4b75",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:35:00.681241+00:00"
+    }
+  ]
+}
